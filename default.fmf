@@ -1,0 +1,7 @@
+name "LibreQuake"
+basegame lq1
+game lq1
+disablehomedir 1
+
+ARCHIVEDPACKAGE lq1/pak0.pak "0x46644aa" "mod/lq1/pak0.pak" "https://github.com/lavenderdotpet/LibreQuake/releases/latest/download/full.zip"
+ARCHIVEDPACKAGE lq1/pak1.pak "0xebab0dfc" "mod/lq1/pak1.pak" "https://github.com/lavenderdotpet/LibreQuake/releases/latest/download/full.zip"

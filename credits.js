@@ -65,3 +65,9 @@ function rollCredits() {
   }
   setTimeout(function() { requestAnimationFrame(scrollDown); }, 2000);
 }
+
+function initCredits() {
+  writeYear();
+  jumbleAll();
+  rollCredits();
+}

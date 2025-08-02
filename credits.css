@@ -58,9 +58,9 @@ body {
 
 
 .credits {
+	margin: 0 auto;
     margin-top: 10%;
 	padding: 2em;
-	margin: 0 auto;
 	max-width: 60ch;
     color: white;
 }
